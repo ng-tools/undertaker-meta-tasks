@@ -1,0 +1,22 @@
+{
+  "name": "undertaker-meta-tasks",
+  "version": "0.2.0",
+  "description": "",
+  "main": "lib/index.js",
+  "dependencies": {
+    "semver": "^4.3.3",
+    "through2": "^0.6.3",
+    "undertaker-registry": "0.0.2",
+    "vinyl-fs": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Olivier Louvignes",
+    "email": "olivier@mg-crea.com",
+    "url": "https://github.com/mgcrea"
+  },
+  "license": "MIT"
+}
