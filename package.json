@@ -4,6 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "dependencies": {
+    "export-files": "^2.0.1",
     "semver": "^4.3.3",
     "through2": "^0.6.3",
     "undertaker-registry": "0.0.2",
